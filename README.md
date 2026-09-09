@@ -76,5 +76,6 @@ This is my first step into data analytics, and I look forward to continuing to l
 
 *Microsoft Excel | PivotTables | PivotCharts | Slicers | Timeline | Data Visualization*
 
-Author
-Prachi Anil Bhere
+## 👩‍💻 Author
+
+*Prachi Bhere*
